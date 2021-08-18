@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIFAT69
 - 👀 I’m interested in programming
-- 📫 How to reach me on facebook: https://www.facebook.com/SiFaT.kAZzziiiiiiii/
+- 📫 How to reach me on facebook: https://www.fiverr.com/sifatkazi
 
 <!---
 SIFAT69/SIFAT69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
