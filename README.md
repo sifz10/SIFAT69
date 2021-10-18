@@ -15,11 +15,11 @@
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmafzaalch&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="engrmafzaalch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SIFAT69&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="engrmafzaalch" /> </p>
 
 
 
-✔ I’m experienced with **Laravel** , **VueJs** , **ReactJs**<br>
+✔ I’m experienced with **Laravel** , **ReactJs**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br>
 ✔ If you want light to come into your life, you need to stand where it is shining.. <br><br><br><br>
