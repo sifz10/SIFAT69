@@ -55,5 +55,3 @@
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
   <hr>
- 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=engrmafzaalch" alt="engrmafzaalch" width="410" /></p>
