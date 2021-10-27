@@ -36,15 +36,14 @@
   <code> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> </code>
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuejs.png"> </code>
   <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/css.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code>  
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/js.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bootstrap.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code>
-   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
-    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
-     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
-     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
   <hr>
