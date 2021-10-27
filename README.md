@@ -43,7 +43,6 @@
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/js.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bootstrap.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code>
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bv.png"> </code>
    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
