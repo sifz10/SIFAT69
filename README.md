@@ -22,7 +22,7 @@
 ✔ If you want light to come into your life, you need to stand where it is shining.. <br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+***Languages & Tools I Know...***
 <p align="left">
   <code> <img height="50" src="https://laravel.com/img/logomark.min.svg"> </code>
   <code> <img height="50" src="https://www.php.net//images/logos/new-php-logo.svg"> </code>
